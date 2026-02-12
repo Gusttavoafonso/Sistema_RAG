@@ -1,5 +1,5 @@
 # 📚 Sistema RAG: Consulta Inteligente de Documentos
-### Pesquisa e Desenvolvimento em LLMs - Laboratório TRIL (Embrapii)
+### Pesquisa e Desenvolvimento em LLMs - 
 
 Este repositório contém a implementação de um sistema de **Geração Aumentada por Recuperação (RAG)**. O projeto permite carregar documentos técnicos em PDF (como manuais ou livros), processá-los semanticamente e realizar perguntas e respostas baseadas exclusivamente no conteúdo fornecido.
 
